@@ -180,3 +180,5 @@ gnews_model_wv_metadata.tsv
 
 *.keras
 decoder_teacher_forcing_model.keras
+
+*.csv
