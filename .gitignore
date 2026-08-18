@@ -182,3 +182,17 @@ gnews_model_wv_metadata.tsv
 decoder_teacher_forcing_model.keras
 
 *.csv
+
+# 가상환경 및 파이썬 캐시
+nlp_venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# 대용량 모델 파일 및 체크포인트 (nsmc_model 폴더 통째로 제외 등)
+nsmc_model/
+*.keras
+*.bin
+*.pt
+
+# 환경 변수 설정 파일
+.env
