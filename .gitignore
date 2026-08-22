@@ -196,3 +196,6 @@ nsmc_model/
 
 # 환경 변수 설정 파일
 .env
+
+NLP.code-workspace
+*.code-workspace
